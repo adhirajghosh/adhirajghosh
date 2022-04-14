@@ -6,11 +6,10 @@ I'm a researcher at ZHAW, where I build deployable computer vision models bridgi
 
 #### Previous Roles - Singapore Management University, Australian National University, Jadavpur University
 
-🔭 I’m currently working on Unsupervised Domain Adaptation for Optical Music Recognition in the Wild
-
-🌱 I’m currently learning Vision-Language Integration, specifically Grounded Visual Question Answering
-👯 I’m looking for MSc/Phd positions in Vision & Language
-📫 How to reach me: [Adhiraj Ghosh](mailto:adhirajghosh1998@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
+🔭 I’m currently working on Unsupervised Domain Adaptation for Optical Music Recognition in the Wild<br/>
+🌱 I’m currently learning Vision-Language Integration, specifically Grounded Visual Question Answering<br/>
+👯 I’m looking for MSc/Phd positions in Vision & Language<br/>
+📫 How to reach me: [Email](mailto:adhirajghosh1998@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)<br/>
 <!--
 **adhirajghosh/adhirajghosh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
