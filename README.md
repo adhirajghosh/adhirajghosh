@@ -9,7 +9,7 @@ I'm a researcher at ZHAW, where I build deployable computer vision models bridgi
 🔭 I’m currently working on Unsupervised Domain Adaptation for Optical Music Recognition in the Wild<br/>
 🌱 I’m currently learning Vision-Language Integration, specifically Grounded Visual Question Answering<br/>
 👯 I’m looking for MSc/Phd positions in Vision & Language<br/>
-📫 How to reach me: [Email](mailto:adhirajghosh1998@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)<br/>
+📫 How to reach me: [Email](mailto:adhirajghosh1998@gmail.com?subject=[GitHub]%20Source%20Han%20Sans) / [Scholar](https://scholar.google.com/citations?hl=en&user=t_Q2mvsAAAAJ) / [LinkedIn](https://www.linkedin.com/in/adhiraj-ghosh/) / [Instagram](https://www.instagram.com/adhiraj_ghosh/)<br/>
 <!--
 **adhirajghosh/adhirajghosh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
