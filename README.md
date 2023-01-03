@@ -2,13 +2,13 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=adhirajghosh&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## About Me
-I'm a researcher at ZHAW, where I build deployable computer vision models bridging industry and academia.
+I'm a first semester MSc student in Machine Learning at the University of Tübingen, where I am focusing on developing robust algorithms for real-world Vision and Language tasks.
 
-#### Previous Roles - Singapore Management University, Australian National University, Jadavpur University
+#### Previous Roles - Zurich University of Applied Sciences, Singapore Management University, Australian National University, Jadavpur University
 
-🔭 I’m currently working on Unsupervised Domain Adaptation for Optical Music Recognition in the Wild<br/>
+<!--🔭 I’m currently working on Unsupervised Domain Adaptation for Optical Music Recognition in the Wild<br/> -->
 🌱 I’m currently learning Vision-Language Integration, specifically Grounded Visual Question Answering<br/>
-👯 I’m looking for MSc/Phd positions in Vision & Language<br/>
+👯 I’m looking for Summer 2023 internships in Computer Vision<br/>
 📫 How to reach me: [Email](mailto:adhirajghosh1998@gmail.com?subject=[GitHub]%20Source%20Han%20Sans) / [Website](https://adhirajghosh.github.io/) / [Scholar](https://scholar.google.com/citations?hl=en&user=t_Q2mvsAAAAJ) / [LinkedIn](https://www.linkedin.com/in/adhiraj-ghosh/) / [Instagram](https://www.instagram.com/adhiraj_ghosh/)<br/>
 <!--
 **adhirajghosh/adhirajghosh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
