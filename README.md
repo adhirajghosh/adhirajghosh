@@ -1,5 +1,5 @@
 ### Hello World! 👋
-[![trophy](https://github-profile-trophy.vercel.app/?username=adhirajghosh&theme=onedark&rank=-?)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=adhirajghosh&theme=monokai&rank=-?)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## About Me
 I'm a first semester MSc student in Machine Learning at the University of Tübingen, where I am focusing on developing robust algorithms for real-world Vision and Language tasks.
