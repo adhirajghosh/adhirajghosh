@@ -11,6 +11,7 @@ I'm a first semester MSc student in Machine Learning at the University of Tübin
 👯 I’m looking for Summer 2023 internships in Computer Vision<br/>
 📫 How to reach me: [Email](mailto:adhirajghosh1998@gmail.com?subject=[GitHub]%20Source%20Han%20Sans) / [Website](https://adhirajghosh.github.io/) / [Scholar](https://scholar.google.com/citations?hl=en&user=t_Q2mvsAAAAJ) / [LinkedIn](https://www.linkedin.com/in/adhiraj-ghosh/) / [Instagram](https://www.instagram.com/adhiraj_ghosh/)<br/>
 
+<div align="center">
 <a href="https://github.com/adhirajghosh/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=adhirajghosh">
 </a>
