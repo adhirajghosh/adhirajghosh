@@ -2,7 +2,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=adhirajghosh&theme=monokai&rank=-?)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## About Me
-I'm a second-year MSc student in Machine Learning at the University of Tübingen, where I am focusing on developing robust algorithms for real-world Vision and Language tasks.
+I'm a incoming PhD student at the University of Tübingen, where I am focusing on developing robust algorithms for real-world Vision and Language tasks.
 
 #### Previous Roles - Zurich University of Applied Sciences, Singapore Management University, Australian National University, Jadavpur University
 
